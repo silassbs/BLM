@@ -8,7 +8,7 @@ Tecnologias utilizadas:
 
 - Html
 - CSS
-- Javascript
+
 
 Online em:  https://silassbs.github.io/BLM/
 
