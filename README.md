@@ -1,6 +1,6 @@
 ##   👊🏾 Projeto de Conscientização BLM (BlackLivesMatter)
 
-Projeto acadêmico de site One-Page para conscientização sobre o racismo no Brasil e no Mundo.
+Projeto acadêmico de site One-Page responsivo para conscientização sobre o racismo no Brasil e no Mundo.
 
 O site possui alguns links úteis reúnidos após uma busca na internet sobre notícias, o que fazer quando presenciar um ato de racismo, botão para denúncia, filmes e series sobre consciência negra.
 
